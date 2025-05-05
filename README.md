@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/MH-Scripts/mh-repairstations/issues">
-        <img src="https://img.shields.io/github/issues/MH-Scripts/ mh-repairstations"/> 
+        <img src="https://img.shields.io/github/issues/MH-Scripts/mh-repairstations"/> 
     </a>
     <a href="https://github.com/MH-Scripts/mh-repairstations/network/members">
         <img src="https://img.shields.io/github/forks/MH-Scripts/mh-repairstations"/> 
